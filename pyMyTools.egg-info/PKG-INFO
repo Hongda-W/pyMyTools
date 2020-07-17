@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyMyTools
+Version: 0.0.1
+Summary: Small Python tools
+Home-page: https://github.com/Hongda-W
+Author: Hongda Wang
+Author-email: hongda.wang@colorado.edu
+License: UNKNOWN
+Description: # PyMyTools
+        
+        My personal python tools for research work
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
